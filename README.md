@@ -1,2 +1,2 @@
 # Test
-This a test for understand how create repository and branche and mostly why do they do.
+This a test for understand how create repositories and branchs and mostly what do they do.
